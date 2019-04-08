@@ -1,5 +1,4 @@
-[
-  "users" : [
+"users" : [   
     {
       "u_id": 1,
       "u_name": "admin",
@@ -12,5 +11,4 @@
       "u_pass": "sanjay",
       "is_admin": "false"
     }  
-  ]
 ]
