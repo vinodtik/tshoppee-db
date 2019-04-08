@@ -1,14 +1,68 @@
-"users" : [   
-    {
-      "u_id": 1,
-      "u_name": "admin",
-      "u_pass": "admin",
-      "is_admin": "true"
-    },
-    {
-      "u_id": 2,
-      "u_name": "sanjay",
-      "u_pass": "sanjay",
-      "is_admin": "false"
-    }  
+[
+  {
+    "_id": "5caaf203238aaa53d6a062c9",
+    "isAdmin": true,
+    "picture": "http://placehold.it/32x32",
+    "age": 30,
+    "name": "Finch Church",
+    "gender": "male",
+    "company": "RENOVIZE",
+    "email": "finchchurch@renovize.com",
+    "phone": "+1 (872) 413-2029"
+  },
+  {
+    "_id": "5caaf203a97020f8664216fb",
+    "isAdmin": false,
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "name": "Justice Watson",
+    "gender": "male",
+    "company": "UNI",
+    "email": "justicewatson@uni.com",
+    "phone": "+1 (817) 457-2516"
+  },
+  {
+    "_id": "5caaf2031abe31a3ff313bf6",
+    "isAdmin": true,
+    "picture": "http://placehold.it/32x32",
+    "age": 23,
+    "name": "Effie Gibson",
+    "gender": "female",
+    "company": "KINETICA",
+    "email": "effiegibson@kinetica.com",
+    "phone": "+1 (959) 591-2964"
+  },
+  {
+    "_id": "5caaf2035857878e2c68a7c6",
+    "isAdmin": false,
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "name": "Preston Ferguson",
+    "gender": "male",
+    "company": "QUILTIGEN",
+    "email": "prestonferguson@quiltigen.com",
+    "phone": "+1 (956) 401-3515"
+  },
+  {
+    "_id": "5caaf203126bdbfc8a850aec",
+    "isAdmin": false,
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "name": "Louisa Garcia",
+    "gender": "female",
+    "company": "TYPHONICA",
+    "email": "louisagarcia@typhonica.com",
+    "phone": "+1 (978) 424-2605"
+  },
+  {
+    "_id": "5caaf203bcc87c8ffaaefa42",
+    "isAdmin": false,
+    "picture": "http://placehold.it/32x32",
+    "age": 26,
+    "name": "Willie Richmond",
+    "gender": "female",
+    "company": "ICOLOGY",
+    "email": "willierichmond@icology.com",
+    "phone": "+1 (861) 506-3433"
+  }
 ]
