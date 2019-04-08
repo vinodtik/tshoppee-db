@@ -53,16 +53,5 @@
     "company": "TYPHONICA",
     "email": "louisagarcia@typhonica.com",
     "phone": "+1 (978) 424-2605"
-  },
-  {
-    "_id": "5caaf203bcc87c8ffaaefa42",
-    "isAdmin": false,
-    "picture": "http://placehold.it/32x32",
-    "age": 26,
-    "name": "Willie Richmond",
-    "gender": "female",
-    "company": "ICOLOGY",
-    "email": "willierichmond@icology.com",
-    "phone": "+1 (861) 506-3433"
   }
 ]
