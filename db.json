@@ -1,14 +1,16 @@
 [
-  {
-    "u_id": 1,
-    "u_name": "admin",
-    "u_pass": "admin",
-    "is_admin": "true"
-  },
-  {
-    "u_id": 2,
-    "u_name": "sanjay",
-    "u_pass": "sanjay",
-    "is_admin": "false"
-  }
+  users : [
+    {
+      "u_id": 1,
+      "u_name": "admin",
+      "u_pass": "admin",
+      "is_admin": "true"
+    },
+    {
+      "u_id": 2,
+      "u_name": "sanjay",
+      "u_pass": "sanjay",
+      "is_admin": "false"
+    }  
+  ]
 ]
